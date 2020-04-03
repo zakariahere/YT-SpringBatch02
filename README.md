@@ -1,7 +1,7 @@
 # YT-SpringBatch02
 Source code montrant la skippabilité dans les jobs spring batch
 
-Lien pour visionner : uploading...
+Lien pour visionner : https://youtu.be/XIFVbzFZRwE
 
 mvn clean install
 
